@@ -18,8 +18,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://codeberg.org/CeruleanDerpo/ketchup/archive/1.0.0.tar.gz",
-					"sha256": "ce7f6d6b6717e3d7a878081fada4f400de56c3ac53bb7afd63f3bc30b3f31519",
+					"url": "https://codeberg.org/CeruleanDerpo/ketchup/archive/1.0.1.tar.gz",
+					"sha256": "aeafd6184d33a7d0d725c495fc2eb8ca87342325c6dbf5a0f9be62d1c1a35dc5",
 					"x-checker-data": {
 						"type": "anitya",
 						"project-id": 391743,
